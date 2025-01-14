@@ -8,7 +8,7 @@ const body = document.body; // Assuming the wish will be added to the body
 
 
 const config = {
-  birthdate: 'Jan 15, 2020',
+  birthdate: 'Jan 15, 2025',
   name: 'SUMOOL NAZ 🎉',
   wish: 'May your day be as amazing as you are <3'
 };
